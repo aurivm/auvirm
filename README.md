@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://aurivm.world">
+  <a href="https://aurivm.com/">
     <img src="https://aurivm.netlify.app/assets/logo-khhyVSLt.png" style="margin: 15px; max-width: 300px" width="50%" alt="Logo">
   </a>
 </div>
@@ -13,7 +13,7 @@
         <img alt="Version" src="https://img.shields.io/pypi/v/aurivm?style=for-the-badge&color=3670A0">
     </a>
 </p>
-
+ Our Website https://aurivm.com/
 ## ✨ Features
 
 | Category | Features | Benefits |
