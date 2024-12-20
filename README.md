@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://aurivm.world">
-    <img src="https://visionary-cajeta-2f322b.netlify.app/assets/logo-khhyVSLt.png" style="margin: 15px; max-width: 300px" width="50%" alt="Logo">
+    <img src="https://aurivm.netlify.app/assets/logo-khhyVSLt.png" style="margin: 15px; max-width: 300px" width="50%" alt="Logo">
   </a>
 </div>
 <p align="center">
